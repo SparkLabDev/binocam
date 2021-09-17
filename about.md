@@ -1,7 +1,7 @@
 <style>td, th {border: none!important;}</style>
 
 <h1 align="center">
-  <table>
+  <table align="center">
     <tbody>
       <tr>
           <td><img src="res/logo.png"></td>
