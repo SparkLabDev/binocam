@@ -1,4 +1,4 @@
-<style>td, th {border: none!important; padding: 0px;}</style>
+<style>td, th {border: none!important;}</style>
 
 <div align="center">
   <h1>
