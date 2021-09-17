@@ -5,7 +5,7 @@
     <table>
       <tbody>
         <tr>
-            <td><img src="res/logo.png"></img></td>
+            <td><img src="res/logo.png"></td>
             <td>BinoCam Pro</td>
         </tr>
       </tbody>
@@ -17,11 +17,11 @@ BinoCam Pro is a mobile application developed for birdwatchers, professional spo
 BinoCam Pro is an application that provides connection of your mobile devices with observation devices of Spark Lab via an integrated Wi-Fi interface. The application provides full control of the observation device and its features.
 
 
-<div align="center"><h3>10x Zoom</h3></div>
+<h3 align="center">10x Zoom</h3>
 
 ![](res/screenshot1_framed.png)
 
-<div align="center"><h3>Dual screen mode</h3></div>
+<h3 align="center">Dual screen mode</h3>
 
 ![](res/screenshot2_framed.png)
 
@@ -30,12 +30,12 @@ BinoCam Pro is an application that provides connection of your mobile devices wi
     <table>
       <tbody>
         <tr>
-            <td><h3>Live stream</h3></td>
-            <td><h3>Image setting</h3></td>
+            <td>Live stream</td>
+            <td>Image setting</td>
         </tr>
         <tr>
-            <td><img src="res/screenshot3_framed.png"></img></td>
-            <td><img src="res/screenshot5_framed.png"></img></td>
+            <td><img src="res/screenshot3_framed.png"></td>
+            <td><img src="res/screenshot5_framed.png"></td>
         </tr>
       </tbody>
     </table>
