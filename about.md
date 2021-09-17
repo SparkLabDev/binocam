@@ -1,7 +1,9 @@
-<h1 align="center">
-  <img src="res/logo.png"></img>
-  <span  vertical-align="middle">BinoCam Pro</span>
-</h1>
+<div align="center">
+  <h1>
+    <img src="res/logo.png"></img>
+    <span  vertical-align="middle">BinoCam Pro</span>
+  </h1>
+</div>
 
 
 BinoCam Pro is a mobile application developed for birdwatchers, professional sports shooters, hunters, forestry and conservation organizations, security professionals, life-rescue teams, and outdoor enthusiasts. BinoCam Pro integrates Spark Lab’s electro-optic units with mobile devices (smartphones, tablets). It provides a higher level of comfort in controlling the units, extends functional capabilities of units, as well as adds new application scenarios.  
