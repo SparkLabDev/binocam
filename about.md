@@ -30,7 +30,7 @@ BinoCam Pro is an application that provides connection of your mobile devices wi
     <table>
       <tbody>
         <tr>
-            <td>Live stream</td>
+            <td align="center">Live stream</td>
             <td>Image setting</td>
         </tr>
         <tr>
