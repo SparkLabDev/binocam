@@ -17,11 +17,11 @@ BinoCam Pro is a mobile application developed for birdwatchers, professional spo
 BinoCam Pro is an application that provides connection of your mobile devices with observation devices of Spark Lab via an integrated Wi-Fi interface. The application provides full control of the observation device and its features.
 
 
-<h3 align="center">10x Zoom</h3>
+<h2 align="center">10x Zoom</h2>
 
 ![](res/screenshot1_framed.png)
 
-<h3 align="center">Dual screen mode</h3>
+<h2 align="center">Dual screen mode</h2>
 
 ![](res/screenshot2_framed.png)
 
