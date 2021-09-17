@@ -1,5 +1,6 @@
 <h1 align="center">
-  <img src="res/logo.png" vertical-align="middle"> BinoCam Pro </img> 
+  <img src="res/logo.png"></img>
+  <span  vertical-align="middle">BinoCam Pro</span>
 </h1>
 
 
