@@ -28,7 +28,7 @@ BinoCam Pro is an application that provides connection of your mobile devices wi
 
 
 <a href="https://play.google.com/store/apps/details?id=com.sparklab.binocam"> 
-  <img src="/res/google-play-badge.png" alt="Our app is now available on Google Play." height="99" width="256">
+  <img src="/res/google-play-badge.png" height="99" width="256">
 </a>
 
 <div align="center">
